@@ -1,0 +1,39 @@
+[color=#cb0000]░█▄▄█░ [head=2]Nash Station Security[/head]
+██▄▄██ [head=3]Crime and Punishment [/head]
+▀█▄▄█▀ [head=3]Aide Memoir [/head]
+[/color]──────────────────────────────────────────
+
+[head=2][color=#4D2E2E][bold]Section 1: Capital Offences[/color][/bold][/head]
+[bullet]Murder [ 60 mins / 250,000 Fine ]
+[bullet]Grand Theft [ 60 mins / 250,000 Fine ]
+[bullet]Grand Sabotage [ 60 mins / 250,000 Fine ]
+[bullet]Terrorism [ 60 mins / 250,000 Fine ]
+[bullet]Kidnapping [ 60 mins / 250,000 Fine ]
+[bullet]Sedition [ 60 mins / 250,000 Fine ]
+
+[head=2][color=#453A59][bold]Section 2: Felonies[/color][/bold][/head]
+[bullet]Manslaughter [ 30 mins / 50,000 Fine ]
+[bullet]Sabotage [ 30 mins / 100,000 Fine ]
+[bullet]Maiming [ 30 mins / 100,000 Fine ]
+[bullet]Robbery [ 20 mins / 75,000 Fine ]
+[bullet]Battery [ 20 mins / 75,000 Fine ]
+[bullet]Felony Possession [ 20 mins / 75,000 Fine ]
+[bullet]Abuse of Authority [ 20 mins / 75,000 Fine ]
+[bullet]Rioting [ 20 mins / 75,000 Fine ]
+[bullet]Resisting Arrest [ — / +50,000 Fine ]
+
+[head=2][color=#2E422E][bold]Section 3: Misdemeanors[/color][/bold][/head]
+[bullet]Assault [ Catch & Release / 40,000 Fine ]
+[bullet]Theft [ Catch & Release / 30,000 Fine ]
+[bullet]Animal Cruelty [ Catch & Release / 10,000 Fine ]
+[bullet]Endangerment [ Catch & Release / 40,000 Fine ]
+[bullet]Vandalism [ Catch & Release / 40,000 Fine ]
+[bullet]Possession [ Catch & Release / 40,000 Fine ]
+[bullet]Evading Arrest [ — / +20,000 Fine ]
+[bullet]Breaking & Entering [ Catch & Release / 30,000 Fine ]
+[bullet]Trespassing [ Catch & Release / 30,000 Fine ]
+[bullet]Hooliganism [ Catch & Release / 10,000 Fine ]
+
+─────────────────────────────────────────
+
+[italic][color=#aaaaaa]All fines can be stacked for multiple offences, but detainment times do not accumulate. Each crime is considered separately, so committing the same offence multiple times will result in repeated charges. Maximum punishments should be reserved for severe or repeat offences, and leniency is advised for first-time offenders or those who cooperate fully with security procedures.[/color][/italic]

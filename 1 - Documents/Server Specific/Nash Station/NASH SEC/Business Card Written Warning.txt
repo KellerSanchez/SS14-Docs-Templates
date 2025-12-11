@@ -1,0 +1,10 @@
+[color=#cb0000]░█▄▄█░ [head=2]Security [/head]
+██▄▄██ [head=3]Station Issue  [/head]
+▀█▄▄█▀ [head=3]Written Warning  [/head]
+[/color]──────────────────────────────────
+    You are hereby presented with this card as
+    a written warning for refusing a lawful order.
+
+
+──────────────────────────────────
+Sincerely, Security.

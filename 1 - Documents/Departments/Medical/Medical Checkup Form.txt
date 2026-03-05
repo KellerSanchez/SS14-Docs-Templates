@@ -1,0 +1,42 @@
+[color=#5b97bc]░░██░░ [head=2]Medical Memo[/head]
+██████ [head=3]Subject: Patient Medical Checkup[/head]
+░░██░░ [head=3]From: Medical Department[/head]
+[/color]──────────────────────────────────────────
+
+[head=3]PATIENT INFORMATION[/head]
+Name: ____________________________
+Species: ________________________
+ID Number: _______________________
+Date of Examination: ______________
+
+[head=3]VITAL SIGNS[/head]
+Blood Pressure: ___________________
+Heart Rate: ______________________
+Temperature: ______________________
+Respiratory Rate: _________________
+
+[head=3]PHYSICAL EXAMINATION[/head]
+General Appearance:
+Head & Neck:
+Lungs & Heart: 
+Abdomen: 
+Extremities: 
+
+
+[head=3]MEDICAL HISTORY[/head]
+Known Allergies:
+Current Medications:
+Previous Injuries/Conditions:
+
+[head=3]ASSESSMENT & RECOMMENDATIONS[/head]
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+[head=3]FOLLOW-UP[/head]
+☐ No follow-up needed
+☐ Follow-up recommended: ____________________________________________________________
+
+──────────────────────────────────────────
+Sincerely, NAME.
+Nanotrasen Medical Department

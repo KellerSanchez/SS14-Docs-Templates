@@ -1,0 +1,73 @@
+# SS14 Department Colors & Styling Aide Mémoir
+
+A quick reference guide for common SS14 department colors and their hex codes for consistent document formatting.
+
+## Department Colors
+
+| Department | Hex Code | Example |
+|------------|----------|---------|
+| Medical | `#5b97bc` | [color=#5b97bc]Medical Blue[/color] |
+| Security | `#8B0000` | Dark Red (typical) |
+| Engineering | `#FFB90F` | Gold/Yellow |
+| Science | `#8B00FF` | Purple/Violet |
+| Command | `#1b67a5` | NanoTrasen Blue |
+| Cargo | `#8B4513` | Brown |
+| Botany | `#228B22` | Forest Green |
+| Chemistry | `#00CED1` | Dark Turquoise |
+| Maintenance | `#696969` | Dim Gray |
+| Legal/Lawyer | `#222222` | Near Black |
+
+## Custom Faction Colors
+
+| Faction | Hex Code | Example |
+|---------|----------|---------|
+| NFSD (New Frontier Sheriff's Dept) | `#4f6e40` | Olive Green |
+| Syndicate | `#FF4500` | Orange Red |
+
+## Neutral/General Colors
+
+| Use | Hex Code | Example |
+|-----|----------|---------|
+| Headers/Dividers | `#333333` | Dark Gray |
+| Subtitles/Fine Print | `#666666` | Medium Gray |
+| Legal Disclaimers | `#AAAAAA` | Light Gray |
+| Error/Warning | `#FF0000` | Bright Red |
+| Success/Approval | `#00AA00` | Bright Green |
+
+## Styling Combinations
+
+### Medical Document Header
+```
+[color=#5b97bc][bold]Medical Department[/bold][/color]
+```
+
+### Security Notice
+```
+[color=#8B0000][bold]SECURITY NOTICE[/bold][/color]
+```
+
+### Legal Footer
+```
+[color=#AAAAAA][italic]This document is binding under NanoTrasen law.[/italic][/color]
+```
+
+### Engineering Authorization
+```
+[color=#FFB90F][bold]ENGINEERING REQUISITION[/bold][/color]
+```
+
+## Tips
+
+- **Consistency**: Keep the same color for the same department across all documents
+- **Contrast**: Pair dark colors with light text and vice versa
+- **Subtlety**: Use lighter shades (#666666–#AAAAAA) for disclaimers and fine print
+- **Emphasis**: Use bold + color for titles and headers to draw attention
+
+## Color Testing
+
+When creating new department colors, test them in-game to ensure they're readable against both light and dark backgrounds in SS14's UI.
+
+---
+
+**Last Updated**: May 2026
+**For Use With**: SS14 Document Formatting Guide

@@ -1,0 +1,124 @@
+# Space Station 14 Document Formatting Guide
+
+This guide explains how to format documents in the style used by Space Station 14 (SS14) roleplaying servers. These documents use a custom markup system for colors, headings, text formatting, and layout. This guide is designed to help AI assistants create properly formatted SS14 documents.
+
+## Basic Syntax
+
+### Colors
+Use `[color=#HEXCODE]` to set text color, and `[/color]` to end it.
+- Example: `[color=#5b97bc]Medical Memo[/color]`
+- Common colors:
+  - `#5b97bc`: Medical blue
+  - `#4f6e40`: NFSD green
+  - `#1b67a5`: NanoTrasen blue
+  - `#333333`: Dark gray for headers
+
+### Headings
+Use `[head=N]` where N is 1-6 (1=largest, 6=smallest).
+- Example: `[head=2]Medical Memo[/head]`
+- Always close with `[/head]`
+
+### Text Formatting
+- `[bold]text[/bold]`: Bold text
+- `[italic]text[/italic]`: Italic text
+- `[underline]text[/underline]`: Underlined text
+
+### Includes
+Include other files: `[include file="path/to/file.txt"]`
+- Paths are relative to the document's location
+- Example: `[include file="../General-Headers-Footers/Medical.txt"]`
+
+## Document Structure
+
+### Headers
+Headers typically include ASCII art, department names, and colors.
+- Example from Medical header:
+```
+[color=#5b97bc]░░██░░ [head=2]Medical Memo[/head]
+██████ [head=3]Subject:  [/head]
+░░██░░ [head=3]From:  [/head]
+[/color]──────────────────────────────────────────
+```
+
+### Body
+Use plain text with markup for emphasis.
+- Separate sections with lines like `──────────────────────────────────────────`
+- Use bullet points or numbered lists where appropriate
+
+### Footers
+End with signatures or disclaimers.
+- Example: `Sincerely, NAME.`
+
+## Special Elements
+
+### Checkboxes
+Use `☐` for unchecked boxes, `☑` for checked.
+- Example: `☐ No follow-up needed`
+
+### Tables
+Use plain text tables with pipes or dashes.
+- Example:
+```
+| Column 1 | Column 2 |
+|----------|----------|
+| Data     | Data     |
+```
+
+### ASCII Art
+Use simple ASCII art for visual appeal in headers.
+- Keep it minimal and aligned
+- Example from NFSD header:
+```
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+```
+
+## Examples
+
+### Medical Checkup Form
+```
+[color=#5b97bc]░░██░░ [head=2]Medical Memo[/head]
+██████ [head=3]Subject: Patient Medical Checkup[/head]
+░░██░░ [head=3]From: Medical Department[/head]
+[/color]──────────────────────────────────────────
+
+[head=3]PATIENT INFORMATION[/head]
+Name: ____________________________
+Species: ________________________
+ID Number: _______________________
+
+[head=3]VITAL SIGNS[/head]
+Blood Pressure: ___________________
+Heart Rate: ______________________
+Temperature: ______________________
+Respiratory Rate: _________________
+
+──────────────────────────────────────────
+Sincerely, NAME.
+Nanotrasen Medical Department
+```
+
+### Wordsearch Grid
+For puzzles, use monospace formatting:
+```
+  A B C D E F G H I J K L M N O
+1 X Q M B O O Z E R K D R L X P
+2 B O R R O W I N G A T Z M N O
+```
+
+## Best Practices
+
+1. **Consistency**: Use consistent colors and formatting within departments.
+2. **Readability**: Keep markup simple; avoid over-nesting.
+3. **File Organization**: Use relative paths for includes; organize by department.
+4. **Testing**: Preview documents in-game to ensure formatting renders correctly.
+5. **Accessibility**: Use clear headings and sufficient contrast.
+
+## Common Pitfalls
+
+- Forgetting to close tags (e.g., `[/color]`, `[/head]`)
+- Using absolute paths in includes
+- Overusing colors or bold text
+- Not accounting for in-game font rendering differences
+
+This guide covers the core formatting used in the provided SS14 document templates. For more examples, refer to the documents in the repository.

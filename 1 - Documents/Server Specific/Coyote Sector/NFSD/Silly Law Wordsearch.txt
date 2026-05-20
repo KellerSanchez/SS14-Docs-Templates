@@ -1,0 +1,33 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]SPACE LAW WORDSEARCH[/head]
+
+Can you find all the space laws hidden in the grid below?
+
+   A B C D E F G H I J K L M N O
+1  X Q M B O O Z E R K D R L X P
+2  B O R R O W I N G A T Z M N O
+3  C L O W N S U I T S E N I L L
+4  S P A C E C H E E S E D U C K
+5  T O W E L W A R S Q U E S T N
+6  H O N K I N G F I N E X Y Z G
+7  B A N A N A S L I P P E R Y E
+8  J U S T I C E D O G G I N G S
+9  M E T A S T A T I O N L E G A
+10 B R E A K I N G W X Y Z B A N
+11 S I L L Y W A L K I N G G A G
+12 F X K W N S H O E S B A N N E
+13 M O O N B I L L D O G W A L K
+
+[head=3]WORDS TO FIND:[/head]
+☐ BOOZE               ☐ CLOWN
+☐ BORROWING           ☐ SPACE
+☐ CHEESE              ☐ TOWEL
+☐ HONKING             ☐ BANANA
+☐ SLIPPERY            ☐ JUSTICE
+☐ DOGGING             ☐ SILLY
+☐ WALKING             ☐ BREAKING
+☐ METASTATION         ☐ MOON
+☐ BILL                ☐ SHOES
+
